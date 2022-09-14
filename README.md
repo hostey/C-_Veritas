@@ -1,2 +1,2 @@
-# C-_Veritas
-First Semester Assignment Repo.
+# C++_Veritas
+C++ Object Oriented Lab Manual.
